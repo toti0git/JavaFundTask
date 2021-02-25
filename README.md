@@ -1,2 +1,0 @@
-# JavaFundTask
-Java Fund task
